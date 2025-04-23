@@ -36,7 +36,7 @@ local function createProcessOverlay()
     local label = Instance.new("TextLabel")
     label.Size = UDim2.new(1, 0, 0.1, 0)
     label.Position = UDim2.new(0, 0, 0.4, 0)
-    label.Text = "Velo.cc | Generating Max Money."
+    label.Text = "Velo.cc | Generating Max Illegal Money!"
     label.Font = Enum.Font.GothamBold
     label.TextSize = 32
     label.TextColor3 = Color3.new(1, 1, 1)
